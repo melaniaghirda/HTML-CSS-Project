@@ -1,0 +1,106 @@
+.fonts{
+	font-family:Sofia, Courier New, Lucida Console, sans;
+}
+
+.bg{
+	background-attachment: fixed;
+	height: 100%; 
+	margin:0;
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+}
+
+.titles{
+	margin:20px;
+	padding:30px;
+	border: 3px;
+	background-color:hsla(1, 100%, 100%, 0.5);
+	text-align:center-left;
+	font-family:Sofia, Courier New, Lucida Console, sans;
+}
+
+
+.a-style{
+	width:20px;
+	position:relative;
+	top:0px;
+	right:0px;
+	font-size:1.15rem;
+	font-family: Sofia, Courier New, Lucida Console, sans;
+	letter-spacing:0.5px;
+	border-radius:10px
+}
+
+.div-style1{
+	height:350px;
+	width:350px;
+	background-color:#FFFFFF;
+	position:absolute;
+	padding:10px;
+	margin:10px;
+	background-position: 0px 0px; 
+	background-size: 420px;
+	background-repeat: no-repeat;  
+	left:5%;
+}
+
+.div-style2{
+	height:350px;
+	width:350px;
+	background-color:#FFFFFF;
+	position:absolute;
+	padding:10px;
+	margin:10px;
+	background-position: -50px -50px; 
+	background-size: 500px;
+	background-repeat: no-repeat;  
+	left:37%;
+}
+
+.div-style3{
+	height:350px;
+	width:350px;
+	background-color:#FFFFFF;
+	position:absolute;
+	padding:10px;
+	margin:10px;
+	background-position: -50px -50px; 
+	background-size: 500px;
+	background-repeat: no-repeat;  
+	right:5%;
+}
+
+.div-style4{
+	height:350px;
+	width:350px;
+	background-color:#FFFFFF;
+	position:absolute;
+	padding:10px;
+	background-position: 0px 0px; 
+	background-size: 470px;
+	background-repeat: no-repeat;  
+	left:20%;
+	bottom:5%;
+}
+
+.div-style5{
+	height:350px;
+	width:350px;
+	background-color:#FFFFFF;
+	position:absolute;
+	padding:10px;
+	background-position: -40px 0px; 
+	background-size: 470px;
+	background-repeat: no-repeat;  
+	right:20%;
+	bottom:5%;
+}
+
+.text-style{
+	text-align:center;
+	margin-top:100px;
+	background-color:hsla(1, 100%, 100%, 0.3);
+	font-family: Sofia, Courier New, Lucida Console, sans;
+}
+
